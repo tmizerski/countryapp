@@ -1,0 +1,26 @@
+li {
+  width: 200px;
+  font-size: 14px;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  margin: 20px auto;
+  padding-bottom: 20px;
+  background: white;
+  box-shadow: -1px 14px 24px -4px rgba(66, 68, 90, 1);
+}
+
+img {
+  width: 100%;
+}
+
+h2 {
+  margin: 15px 20px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+span {
+  margin: 0 20px 5px;
+}
